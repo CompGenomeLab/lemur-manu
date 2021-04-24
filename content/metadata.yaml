@@ -1,0 +1,89 @@
+---
+title: "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events"
+# title: "Two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events"
+running_title: "Nucleotide excision repair profiles in primates"
+keywords:
+  - DNA repair
+  - Nucleotide excision repair
+  - UV damage
+  - Gray Mouse Lemur
+  - Fibroblasts
+lang: en-US
+authors:
+  -
+    github: umieat
+    name: Umit Akkose
+    initials: UA
+    orcid: 0000-0002-9731-3702
+    email: umitakkose@sabanciuniv.edu
+    affiliations:
+      - Molecular Biology, Genetics & Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey
+    symbol_str: "†"
+  -
+    github: vogulcan
+    name: Veysel Ogulcan Kaya
+    initials: VOK
+    orcid: 0000-0002-3447-0735
+    email: vogulcan@sabanciuniv.edu
+    affiliations:
+      - Molecular Biology, Genetics & Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey
+    symbol_str: "†"
+  -
+    name: Laura Lindsey-Boltz
+    initials: LL
+    orcid: 0000-0001-6493-8194
+    email: llindsey@med.unc.edu
+    affiliations:
+      - Department of Biochemistry and Biophysics, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA
+    symbol_str: "†"
+  -
+    github: zeynepkaragoz
+    name: Zeynep Karagoz
+    initials: ZK
+    orcid: 0000-0002-7627-9218
+    email: zeynepkgoz@gmail.com
+    affiliations:
+      - Molecular Biology, Genetics & Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey
+  -
+    name: Adam D. Brown
+    initials: ADB
+    orcid: 0000-0002-9122-4960
+    email: brownad2012@gmail.com
+    affiliations:
+      - Department of Pharmacology and Cancer Biology, Duke University, Durham, North Carolina, 27708, USA
+  -
+    name: Peter A. Larsen
+    initials: PAL
+    orcid: 0000-0002-3634-3625
+    email: plarsen@umn.edu
+    affiliations:
+      - Department of Biology, Duke University, Durham, North Carolina, 27708, USA
+    # symbol_str: "#"
+
+  -
+    name: Anne D. Yoder
+    initials: ADY
+    orcid: 0000-0002-1781-9552
+    email: anne.yoder@duke.edu
+    affiliations:
+      - Department of Biology, Duke University, Durham, North Carolina, 27708, USA
+    funders: National Science Foundation; Duke University
+  -
+    name: Aziz Sancar
+    initials: AS
+    orcid: 0000-0001-6469-4900
+    email: aziz_sancar@med.unc.edu
+    affiliations:
+      - Department of Biochemistry and Biophysics, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA
+    funders: National Institutes of Health
+  -
+    github: adebali
+    name: Ogun Adebali
+    initials: OA
+    orcid: 0000-0001-9213-4070
+    twitter: compGenomics
+    email: ogun.adebali@sabanciuniv.edu
+    affiliations:
+      - Molecular Biology, Genetics & Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey
+    funders: EMBO Installation Grant funded by TUBITAK; Sabanci University
+    corresponding: true
