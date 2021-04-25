@@ -1,0 +1,202 @@
+{
+  "pandoc": {
+    "title": "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events",
+    "keywords": [
+      "DNA repair",
+      "Nucleotide excision repair",
+      "UV damage",
+      "Gray Mouse Lemur",
+      "Fibroblasts"
+    ],
+    "lang": "en-US",
+    "date-meta": "2021-04-25",
+    "author-meta": [
+      "Umit Akkose",
+      "Veysel Ogulcan Kaya",
+      "Laura Lindsey-Boltz",
+      "Zeynep Karagoz",
+      "Adam D. Brown",
+      "Peter A. Larsen",
+      "Anne D. Yoder",
+      "Aziz Sancar",
+      "Ogun Adebali"
+    ],
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events\" />\n<meta name=\"citation_title\" content=\"Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events\" />\n<meta property=\"og:title\" content=\"Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events\" />\n<meta property=\"twitter:title\" content=\"Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events\" />\n<meta name=\"dc.date\" content=\"2021-04-25\" />\n<meta name=\"citation_publication_date\" content=\"2021-04-25\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Umit Akkose\" />\n<meta name=\"citation_author_institution\" content=\"Molecular Biology, Genetics &amp; Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9731-3702\" />\n<meta name=\"citation_author\" content=\"Veysel Ogulcan Kaya\" />\n<meta name=\"citation_author_institution\" content=\"Molecular Biology, Genetics &amp; Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3447-0735\" />\n<meta name=\"citation_author\" content=\"Laura Lindsey-Boltz\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biochemistry and Biophysics, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6493-8194\" />\n<meta name=\"citation_author\" content=\"Zeynep Karagoz\" />\n<meta name=\"citation_author_institution\" content=\"Molecular Biology, Genetics &amp; Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7627-9218\" />\n<meta name=\"citation_author\" content=\"Adam D. Brown\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pharmacology and Cancer Biology, Duke University, Durham, North Carolina, 27708, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9122-4960\" />\n<meta name=\"citation_author\" content=\"Peter A. Larsen\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biology, Duke University, Durham, North Carolina, 27708, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3634-3625\" />\n<meta name=\"citation_author\" content=\"Anne D. Yoder\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biology, Duke University, Durham, North Carolina, 27708, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1781-9552\" />\n<meta name=\"citation_author\" content=\"Aziz Sancar\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biochemistry and Biophysics, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6469-4900\" />\n<meta name=\"citation_author\" content=\"Ogun Adebali\" />\n<meta name=\"citation_author_institution\" content=\"Molecular Biology, Genetics &amp; Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-9213-4070\" />\n<meta name=\"twitter:creator\" content=\"@compGenomics\" />\n<link rel=\"canonical\" href=\"https://CompGenomeLab.github.io/lemur-manu/\" />\n<meta property=\"og:url\" content=\"https://CompGenomeLab.github.io/lemur-manu/\" />\n<meta property=\"twitter:url\" content=\"https://CompGenomeLab.github.io/lemur-manu/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://CompGenomeLab.github.io/lemur-manu/\" />\n<meta name=\"citation_pdf_url\" content=\"https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://CompGenomeLab.github.io/lemur-manu/v/f9f017935092acd0a06f1e556405feab1a8f8aeb/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://CompGenomeLab.github.io/lemur-manu/v/f9f017935092acd0a06f1e556405feab1a8f8aeb/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://CompGenomeLab.github.io/lemur-manu/v/f9f017935092acd0a06f1e556405feab1a8f8aeb/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "bibliography": [
+      "content/manual-references.json"
+    ],
+    "manubot-output-bibliography": "output/references.json",
+    "manubot-output-citekeys": "output/citations.tsv",
+    "manubot-requests-cache-path": "ci/cache/requests-cache",
+    "manubot-clear-requests-cache": false
+  },
+  "manubot": {
+    "date": "April 25, 2021",
+    "authors": [
+      {
+        "github": "umieat",
+        "name": "Umit Akkose",
+        "initials": "UA",
+        "orcid": "0000-0002-9731-3702",
+        "email": "umitakkose@sabanciuniv.edu",
+        "affiliations": [
+          "Molecular Biology, Genetics & Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey"
+        ],
+        "symbol_str": "†",
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "github": "vogulcan",
+        "name": "Veysel Ogulcan Kaya",
+        "initials": "VOK",
+        "orcid": "0000-0002-3447-0735",
+        "email": "vogulcan@sabanciuniv.edu",
+        "affiliations": [
+          "Molecular Biology, Genetics & Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey"
+        ],
+        "symbol_str": "†",
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "name": "Laura Lindsey-Boltz",
+        "initials": "LL",
+        "orcid": "0000-0001-6493-8194",
+        "email": "llindsey@med.unc.edu",
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA"
+        ],
+        "symbol_str": "†",
+        "affiliation_numbers": [
+          2
+        ]
+      },
+      {
+        "github": "zeynepkaragoz",
+        "name": "Zeynep Karagoz",
+        "initials": "ZK",
+        "orcid": "0000-0002-7627-9218",
+        "email": "zeynepkgoz@gmail.com",
+        "affiliations": [
+          "Molecular Biology, Genetics & Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "name": "Adam D. Brown",
+        "initials": "ADB",
+        "orcid": "0000-0002-9122-4960",
+        "email": "brownad2012@gmail.com",
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University, Durham, North Carolina, 27708, USA"
+        ],
+        "affiliation_numbers": [
+          3
+        ]
+      },
+      {
+        "name": "Peter A. Larsen",
+        "initials": "PAL",
+        "orcid": "0000-0002-3634-3625",
+        "email": "plarsen@umn.edu",
+        "affiliations": [
+          "Department of Biology, Duke University, Durham, North Carolina, 27708, USA"
+        ],
+        "affiliation_numbers": [
+          4
+        ]
+      },
+      {
+        "name": "Anne D. Yoder",
+        "initials": "ADY",
+        "orcid": "0000-0002-1781-9552",
+        "email": "anne.yoder@duke.edu",
+        "affiliations": [
+          "Department of Biology, Duke University, Durham, North Carolina, 27708, USA"
+        ],
+        "funders": [
+          "National Science Foundation; Duke University"
+        ],
+        "affiliation_numbers": [
+          4
+        ]
+      },
+      {
+        "name": "Aziz Sancar",
+        "initials": "AS",
+        "orcid": "0000-0001-6469-4900",
+        "email": "aziz_sancar@med.unc.edu",
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA"
+        ],
+        "funders": [
+          "National Institutes of Health"
+        ],
+        "affiliation_numbers": [
+          2
+        ]
+      },
+      {
+        "github": "adebali",
+        "name": "Ogun Adebali",
+        "initials": "OA",
+        "orcid": "0000-0001-9213-4070",
+        "twitter": "compGenomics",
+        "email": "ogun.adebali@sabanciuniv.edu",
+        "affiliations": [
+          "Molecular Biology, Genetics & Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey"
+        ],
+        "funders": [
+          "EMBO Installation Grant funded by TUBITAK; Sabanci University"
+        ],
+        "corresponding": true,
+        "affiliation_numbers": [
+          1
+        ]
+      }
+    ],
+    "affiliations": [
+      {
+        "affiliation": "Molecular Biology, Genetics & Bioengineering Program, Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, 34956, Turkey",
+        "affiliation_number": 1
+      },
+      {
+        "affiliation": "Department of Biochemistry and Biophysics, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA",
+        "affiliation_number": 2
+      },
+      {
+        "affiliation": "Department of Pharmacology and Cancer Biology, Duke University, Durham, North Carolina, 27708, USA",
+        "affiliation_number": 3
+      },
+      {
+        "affiliation": "Department of Biology, Duke University, Durham, North Carolina, 27708, USA",
+        "affiliation_number": 4
+      }
+    ],
+    "ci_source": {
+      "provider": "github",
+      "repo_slug": "CompGenomeLab/lemur-manu",
+      "repo_owner": "CompGenomeLab",
+      "repo_name": "lemur-manu",
+      "commit": "f9f017935092acd0a06f1e556405feab1a8f8aeb",
+      "triggering_commit": "f9f017935092acd0a06f1e556405feab1a8f8aeb",
+      "build_url": "https://github.com/CompGenomeLab/lemur-manu/commit/f9f017935092acd0a06f1e556405feab1a8f8aeb/checks",
+      "job_url": "https://github.com/CompGenomeLab/lemur-manu/runs/run3"
+    },
+    "html_url": "https://CompGenomeLab.github.io/lemur-manu/",
+    "pdf_url": "https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf",
+    "html_url_versioned": "https://CompGenomeLab.github.io/lemur-manu/v/f9f017935092acd0a06f1e556405feab1a8f8aeb/",
+    "pdf_url_versioned": "https://CompGenomeLab.github.io/lemur-manu/v/f9f017935092acd0a06f1e556405feab1a8f8aeb/manuscript.pdf",
+    "manubot_version": "0.5.0",
+    "rootstock_commit": null,
+    "manuscript_stats": {
+      "word_count": 8251
+    }
+  },
+  "running_title": "Nucleotide excision repair profiles in primates"
+}
