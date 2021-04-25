@@ -176,7 +176,7 @@ TSS
 TUBITAK
 UA
 Umit
-unrepaired
+Unrepaired
 Veysel
 vivo
 VOK
