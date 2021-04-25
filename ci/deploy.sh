@@ -90,6 +90,7 @@ $CI_JOB_WEB_URL
 
 # Deploy the manubot outputs to output
 ghp-import \
+  --no-verify \
   --push \
   --branch=output \
   --message="$MESSAGE" \
