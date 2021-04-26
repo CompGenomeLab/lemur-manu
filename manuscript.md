@@ -7,7 +7,7 @@ keywords:
 - Gray Mouse Lemur
 - Fibroblasts
 lang: en-US
-date-meta: '2021-04-25'
+date-meta: '2021-04-26'
 author-meta:
 - Umit Akkose
 - Veysel Ogulcan Kaya
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
   <meta property="og:title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
   <meta property="twitter:title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
-  <meta name="dc.date" content="2021-04-25" />
-  <meta name="citation_publication_date" content="2021-04-25" />
+  <meta name="dc.date" content="2021-04-26" />
+  <meta name="citation_publication_date" content="2021-04-26" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,9 +70,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://CompGenomeLab.github.io/lemur-manu/" />
   <meta name="citation_pdf_url" content="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/54084601fefba12d4bf3d56c6acb567e530f3d7b/" />
-  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/54084601fefba12d4bf3d56c6acb567e530f3d7b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/54084601fefba12d4bf3d56c6acb567e530f3d7b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/f21fc7d15f86db24d350806c1e0386899173383c/" />
+  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/f21fc7d15f86db24d350806c1e0386899173383c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/f21fc7d15f86db24d350806c1e0386899173383c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />

@@ -18,7 +18,7 @@ Chemi
 chemiluminescent
 Circos
 clade
-Clonogenic
+clonogenic
 CoCl
 coimmunoprecipitation
 coli
@@ -57,7 +57,7 @@ fibroblast
 fibroblasts
 fmol
 genic
-genomic
+Genomic
 GSE
 GTF
 Heterochromatin
@@ -76,7 +76,7 @@ immonoslot
 immortalization
 immunoblotting
 immunoprecipitated
-immunoslot
+Immunoslot
 intergenic
 Invitrogen
 Karagoz
@@ -176,14 +176,14 @@ TSS
 TUBITAK
 UA
 Umit
-Unrepaired
+unrepaired
 Veysel
 vivo
 VOK
 von
 Welch
 XPB
-XR
+Xr
 XRS
 Yoder
 Zeynep
