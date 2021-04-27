@@ -7,7 +7,7 @@ keywords:
 - Gray Mouse Lemur
 - Fibroblasts
 lang: en-US
-date-meta: '2021-04-26'
+date-meta: '2021-04-27'
 author-meta:
 - Umit Akkose
 - Veysel Ogulcan Kaya
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
   <meta property="og:title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
   <meta property="twitter:title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
-  <meta name="dc.date" content="2021-04-26" />
-  <meta name="citation_publication_date" content="2021-04-26" />
+  <meta name="dc.date" content="2021-04-27" />
+  <meta name="citation_publication_date" content="2021-04-27" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,9 +70,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://CompGenomeLab.github.io/lemur-manu/" />
   <meta name="citation_pdf_url" content="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/f21fc7d15f86db24d350806c1e0386899173383c/" />
-  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/f21fc7d15f86db24d350806c1e0386899173383c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/f21fc7d15f86db24d350806c1e0386899173383c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/dddbb249d1305c38781e51d3cfa6f947fc609f38/" />
+  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/dddbb249d1305c38781e51d3cfa6f947fc609f38/" />
+  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/dddbb249d1305c38781e51d3cfa6f947fc609f38/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -347,6 +347,7 @@ We removed the genes that are closer to each other with less than 20kb in order 
 We used 5277 and 3366 annotated genes for human and mouse lemur, respectively (see methods). 
 We performed a meta-analysis where we aligned all transcription start and transcription end sites and calculated the RPKM (reads per kilobase per million mapped reads) values.
 Interestingly, mouse lemur fibroblasts exhibited stronger TCR profiles compared to human cell lines at 1 hour after CPD formation (TS/NTS Mann-Whitney U test p=4.3*10<sup>-21</sup>). 
+The high TCR profile of lemur fibroblasts might be caused by the low global repair efficiency relative human fibroblasts (see discussion).
 
 ![ Figure 3
 <!-- Transcription-coupled repair in mouse lemur and human fibroblasts. 
