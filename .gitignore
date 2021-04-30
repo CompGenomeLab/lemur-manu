@@ -1,7 +1,7 @@
 # Generated manuscript output files
 output/*
 !output/README.md
-!output/manuscript.html
+# !output/manuscript.html
 
 webpage/v
 
