@@ -70,9 +70,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://CompGenomeLab.github.io/lemur-manu/" />
   <meta name="citation_pdf_url" content="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/626031062bd19cebf6f88524ff1f5399628a5a93/" />
-  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/626031062bd19cebf6f88524ff1f5399628a5a93/" />
-  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/626031062bd19cebf6f88524ff1f5399628a5a93/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/44f5bc48b6869d288b107da645614c3991d2bcb5/" />
+  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/44f5bc48b6869d288b107da645614c3991d2bcb5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/44f5bc48b6869d288b107da645614c3991d2bcb5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -347,7 +347,7 @@ We removed the genes that are closer to each other with less than 20kb in order 
 We used 5277 and 3366 annotated genes for human and mouse lemur, respectively (see methods). 
 We performed a meta-analysis where we aligned all transcription start and transcription end sites and calculated the RPKM (reads per kilobase per million mapped reads) values.
 Interestingly, mouse lemur fibroblasts exhibited stronger TCR profiles compared to human cell lines at 1 hour after CPD formation (TS/NTS Mann-Whitney U test p=4.3*10<sup>-21</sup>). 
-The high TCR profile of lemur fibroblasts might be caused by the low global repair efficiency relative human fibroblasts (see discussion).
+The higher TCR profile of lemur fibroblasts might be caused by the lower global repair efficiency relative to human fibroblasts (see discussion).
 
 ![ Figure 3
 <!-- Transcription-coupled repair in mouse lemur and human fibroblasts. 

@@ -18,7 +18,7 @@ Chemi
 chemiluminescent
 Circos
 clade
-clonogenic
+Clonogenic
 CoCl
 coimmunoprecipitation
 coli
@@ -57,7 +57,7 @@ fibroblast
 fibroblasts
 fmol
 genic
-Genomic
+genomic
 GSE
 GTF
 Heterochromatin
@@ -176,7 +176,7 @@ TSS
 TUBITAK
 UA
 Umit
-Unrepaired
+unrepaired
 Veysel
 vivo
 VOK
