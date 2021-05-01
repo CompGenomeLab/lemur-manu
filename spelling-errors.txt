@@ -18,7 +18,7 @@ Chemi
 chemiluminescent
 Circos
 clade
-Clonogenic
+clonogenic
 CoCl
 coimmunoprecipitation
 coli
@@ -57,7 +57,7 @@ fibroblast
 fibroblasts
 fmol
 genic
-genomic
+Genomic
 GSE
 GTF
 Heterochromatin

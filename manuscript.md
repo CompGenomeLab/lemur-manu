@@ -7,7 +7,7 @@ keywords:
 - Gray Mouse Lemur
 - Fibroblasts
 lang: en-US
-date-meta: '2021-04-29'
+date-meta: '2021-05-01'
 author-meta:
 - Umit Akkose
 - Veysel Ogulcan Kaya
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
   <meta property="og:title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
   <meta property="twitter:title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
-  <meta name="dc.date" content="2021-04-29" />
-  <meta name="citation_publication_date" content="2021-04-29" />
+  <meta name="dc.date" content="2021-05-01" />
+  <meta name="citation_publication_date" content="2021-05-01" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,9 +70,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://CompGenomeLab.github.io/lemur-manu/" />
   <meta name="citation_pdf_url" content="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/f70f8413fa34c9fcaed8567fd8ec25516f27c495/" />
-  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/f70f8413fa34c9fcaed8567fd8ec25516f27c495/" />
-  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/f70f8413fa34c9fcaed8567fd8ec25516f27c495/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/626031062bd19cebf6f88524ff1f5399628a5a93/" />
+  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/626031062bd19cebf6f88524ff1f5399628a5a93/" />
+  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/626031062bd19cebf6f88524ff1f5399628a5a93/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -594,7 +594,7 @@ The library preparation and strand-specific paired-end sequencing (2 × 150 bp) 
 
 ### Human and lemur genome alignment
 
-MUMmer version 3.23 [@doi:10.1186/gb-2004-5-2-r12] was used to align the grey mouse lemur genome (Mmur_3.0) to the human genome (hg19) with `nucmer` subprogram. 
+MUMmer version 3.23 [@pmid:14759262] was used to align the grey mouse lemur genome (Mmur_3.0) to the human genome (hg19) with `nucmer` subprogram. 
 The alignments were filtered based on criteria taking length and identity into account.
 Alignments were listed in “delta format” by default by Nucmer.
 For every reference (human) - query (lemur) pair, we kept the alignments which form the longest mutually consistent set.
