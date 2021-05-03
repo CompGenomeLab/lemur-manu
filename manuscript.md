@@ -7,7 +7,7 @@ keywords:
 - Gray Mouse Lemur
 - Fibroblasts
 lang: en-US
-date-meta: '2021-05-01'
+date-meta: '2021-05-03'
 author-meta:
 - Umit Akkose
 - Veysel Ogulcan Kaya
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
   <meta property="og:title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
   <meta property="twitter:title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
-  <meta name="dc.date" content="2021-05-01" />
-  <meta name="citation_publication_date" content="2021-05-01" />
+  <meta name="dc.date" content="2021-05-03" />
+  <meta name="citation_publication_date" content="2021-05-03" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,9 +70,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://CompGenomeLab.github.io/lemur-manu/" />
   <meta name="citation_pdf_url" content="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/44f5bc48b6869d288b107da645614c3991d2bcb5/" />
-  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/44f5bc48b6869d288b107da645614c3991d2bcb5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/44f5bc48b6869d288b107da645614c3991d2bcb5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/c40c26106a306f9432125ba5359e3b8f53d1a118/" />
+  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/c40c26106a306f9432125ba5359e3b8f53d1a118/" />
+  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/c40c26106a306f9432125ba5359e3b8f53d1a118/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -498,30 +498,6 @@ We demonstrated that genome-wide UV repair profiles between human and and mouse 
 Our results shed light onto deep homologies of same tissue types in primates by suggesting similar epigenetic architecture between them.
 We believe our results on varying repair rates between the two species will guide follow-up studies investigating the evolutionary effects of day time activity and UV avoidance on differential nucleotide excision repair rates.
 
-## Abbreviations
-
-GR: Global repair
-
-TCR: Transcription-coupled repair
-
-RNAPII: RNA polymerase II
-
-XR-seq: excision repair sequencing
-
-CPD: cyclobutane pyrimidine dimer
-
-(6-4)PP: 6-4 pyrimidine-pyrimidone photo products
-
-NHF1: normal human fibroblasts 1
-
-TS: transcribed strand
-
-NTS: non-transcribed strand
-
-RPKM: reads per kilobase per million mapped reads
-
-GEO: Gene Expression Omnibus
-
 ## Methods
 <!-- ## Materials and Methods -->
 
@@ -672,12 +648,49 @@ The manuscript was written using Manubot [@doi:10.1371/journal.pcbi.1007128].
 All raw and processed sequencing data generated in this study have been submitted to the NCBI Gene Expression Omnibus (GEO; https://www.ncbi.nlm.nih.gov/geo/) under accession number GSE145883. -->
 
 
+## Abbreviations
+
+GR: Global repair
+
+TCR: Transcription-coupled repair
+
+RNAPII: RNA polymerase II
+
+XR-seq: excision repair sequencing
+
+CPD: cyclobutane pyrimidine dimer
+
+(6-4)PP: 6-4 pyrimidine-pyrimidone photo products
+
+NHF1: normal human fibroblasts 1
+
+TS: transcribed strand
+
+NTS: non-transcribed strand
+
+RPKM: reads per kilobase per million mapped reads
+
+GEO: Gene Expression Omnibus
+
 ## Declarations
 
-### Availability of data and materials
+
+### Ethics approval and consent to participate
+
+Not applicable.
+
+### Consent for publication
+
+Not applicable.
+
+### Availability of data and material
 
 All raw and processed sequencing data generated in this study have been submitted to the NCBI Gene Expression Omnibus (GEO; https://www.ncbi.nlm.nih.gov/geo/) under accession number GSE145883. 
 The code repository for the data analyses can be accessed at https://github.com/CompGenomeLab/lemurRepair.
+
+### Competing interests
+
+The authors declare that there is no competing interests regarding the publication of this article.
 
 ### Funding
 
@@ -685,25 +698,18 @@ The design of the repair assays is supported by the National Institutes of Healt
 Cell line establishment was supported by the National Science Foundation [DEB-1354610 to A.Y.D].
 Conceptualization and computational analysis were supported by European Molecular Biology Organization Installation Grant (to O.A.)
 
+### Authors' contributions
 
-### Competing interests
-<!-- ## CONFLICT OF INTEREST -->
+OA, AS, LL-B and ADY conceived of the project and designed the experiments. Mouse lemur tissue was acquired by ADY and PAL, cell lines were prepared by AB providing reagents for immortalization (hTERT construct). LL-B performed experimental assays, XR-seq and RNA-seq experiments. VOK, UA and ZK performed computational analyses. OA interpreted the data and wrote the first draft. All authors have read, revised and approved the final manuscript.
 
-The authors declare that there is no competing interests regarding the publication of this article.
-
-## Acknowledgements
-<!-- ## ACKNOWLEDGEMENT -->
+### Acknowledgements
 
 We would like to thank Dr. Beth A Sullivan for the construct to make the TERT-immortalized lines.
 A.Y.D is supported by the John Simon Guggenheim Foundation, and the Alexander von Humboldt Foundation.
 O.A. is supported by TUBITAK 2232 International Fellowship for Outstanding Researchers Program and Young Scientist Grant (BAGEP) awarded by Science Academy, Turkey. 
 
-*Authors' contributions:* OA, AS, LL-B and ADY conceived of the project and designed the experiments. Mouse lemur tissue was acquired by ADY and PAL, cell lines were prepared by AB providing reagents for immortalization (hTERT construct). LL-B performed experimental assays, XR-seq and RNA-seq experiments. VOK, UA and ZK performed computational analyses. OA interpreted the data and wrote the first draft. All authors have read, revised and approved the final manuscript.
 
-<!-- ## Disclosure Declaration -->
-<!-- ## Competing interests -->
 
-<!-- The authors declare that there is no conflict of interest regarding the publication of this article. -->
 
 ## References 
 
