@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/CompGenomeLab/lemur-manu/tree/gh-pages) branch hosts the contents of this directory at <https://CompGenomeLab.github.io/lemur-manu/>.
-The permalink for this webpage version is <https://CompGenomeLab.github.io/lemur-manu/v/c40c26106a306f9432125ba5359e3b8f53d1a118/>.
+The permalink for this webpage version is <https://CompGenomeLab.github.io/lemur-manu/v/0ab31c39fc28d77f38edcccb3cfc58813d0f29fa/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://CompGenomeLab.github.io/lemur-manu/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`c40c26106a306f9432125ba5359e3b8f53d1a118`](https://github.com/CompGenomeLab/lemur-manu/commit/c40c26106a306f9432125ba5359e3b8f53d1a118).
+[`0ab31c39fc28d77f38edcccb3cfc58813d0f29fa`](https://github.com/CompGenomeLab/lemur-manu/commit/0ab31c39fc28d77f38edcccb3cfc58813d0f29fa).
