@@ -78,9 +78,9 @@
   <meta name="citation_fulltext_html_url" content="https://CompGenomeLab.github.io/lemur-manu/" />
   <meta name="citation_pdf_url" content="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/0ab31c39fc28d77f38edcccb3cfc58813d0f29fa/" />
-  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/0ab31c39fc28d77f38edcccb3cfc58813d0f29fa/" />
-  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/0ab31c39fc28d77f38edcccb3cfc58813d0f29fa/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/6bd61e9236d2d0e8a9108c1cda21fff40da685b1/" />
+  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/6bd61e9236d2d0e8a9108c1cda21fff40da685b1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/6bd61e9236d2d0e8a9108c1cda21fff40da685b1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -475,12 +475,12 @@ This resulted in a <code>bed</code> file of one-to-one homologous regions withou
 <h3 id="xr-seq-analysis">XR-seq analysis</h3>
 <p>We trimmed 3’ adapter sequences (TGGAATTCTCGGGTGCCAAGGAACTCCAGTNNNNNNACGATCTCGTATGCCGTCTTCTGCTTG) using Cutadapt <span class="citation" data-cites="1Fp9ui2nK">[<a href="#ref-1Fp9ui2nK" role="doc-biblioref">32</a>]</span>.
 Bowtie2 version 2.3.4.1 <span class="citation" data-cites="PiS0h6Mu">[<a href="#ref-PiS0h6Mu" role="doc-biblioref">33</a>]</span> was used to align sequencing reads onto reference genomes with default parameters.
-With a two-step conversion process, the <code>sam</code> format was first converted (with SAMtools <span class="citation" data-cites="IPc8cy7s">[<a href="#ref-IPc8cy7s" role="doc-biblioref">34</a>]</span>) to <code>bam</code> format, which was then converted to <code>bed</code> format with BEDTools <span class="citation" data-cites="1HWiAHnIw">[<a href="#ref-1HWiAHnIw" role="doc-biblioref">31</a>]</span>.
+The alignment in <code>sam</code> format was converted (with SAMtools <span class="citation" data-cites="IPc8cy7s">[<a href="#ref-IPc8cy7s" role="doc-biblioref">34</a>]</span>) to <code>bam</code> format, followed by conversion to <code>bed</code> format with BEDTools <span class="citation" data-cites="1HWiAHnIw">[<a href="#ref-1HWiAHnIw" role="doc-biblioref">31</a>]</span>.
 The resulting <code>bed</code> files were sorted and duplicate regions were removed.
 Command line we used was:
 <code>sort -u -k1,1 -k2,2n -k3,3n ${SAMPLE}_cutadapt.bed &gt;${SAMPLE}_cutadapt_sorted.bed</code></p>
 <h3 id="rna-seq-analysis">RNA-seq analysis</h3>
-<p>Sequencing reads were aligned to the reference genome using STAR Aligner 2.6.1a <span class="citation" data-cites="tTu8Ds9Z">[<a href="#ref-tTu8Ds9Z" role="doc-biblioref">35</a>]</span> with default parameters.
+<p>We aligned sequencing reads to the reference genomes using STAR Aligner 2.6.1a <span class="citation" data-cites="tTu8Ds9Z">[<a href="#ref-tTu8Ds9Z" role="doc-biblioref">35</a>]</span> with default parameters.
 The aligned reads were converted to <code>bed</code> format with <code>bedtools bamtobed</code>.
 The resulting <code>bed</code> files were sorted by coordinates and duplicate regions were removed.
 Command-line we used was:

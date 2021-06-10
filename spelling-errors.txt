@@ -16,7 +16,7 @@ cerevisiae
 Chemi
 Circos
 clade
-clonogenic
+Clonogenic
 coimmunoprecipitation
 coli
 confluency
@@ -67,7 +67,7 @@ Imager
 immonoslot
 immortalization
 immunoprecipitated
-immunoslot
+Immunoslot
 incubater
 intergenic
 Invitrogen
