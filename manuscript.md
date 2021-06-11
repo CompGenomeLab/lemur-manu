@@ -7,7 +7,7 @@ keywords:
 - Gray Mouse Lemur
 - Fibroblasts
 lang: en-US
-date-meta: '2021-06-10'
+date-meta: '2021-06-11'
 author-meta:
 - Umit Akkose
 - Veysel Ogulcan Kaya
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
   <meta property="og:title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
   <meta property="twitter:title" content="Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events" />
-  <meta name="dc.date" content="2021-06-10" />
-  <meta name="citation_publication_date" content="2021-06-10" />
+  <meta name="dc.date" content="2021-06-11" />
+  <meta name="citation_publication_date" content="2021-06-11" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,9 +70,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://CompGenomeLab.github.io/lemur-manu/" />
   <meta name="citation_pdf_url" content="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://CompGenomeLab.github.io/lemur-manu/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/6bd61e9236d2d0e8a9108c1cda21fff40da685b1/" />
-  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/6bd61e9236d2d0e8a9108c1cda21fff40da685b1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/6bd61e9236d2d0e8a9108c1cda21fff40da685b1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://CompGenomeLab.github.io/lemur-manu/v/e30a865ac2d73f1ed46e7a346c422d61e00fd923/" />
+  <meta name="manubot_html_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/e30a865ac2d73f1ed46e7a346c422d61e00fd923/" />
+  <meta name="manubot_pdf_url_versioned" content="https://CompGenomeLab.github.io/lemur-manu/v/e30a865ac2d73f1ed46e7a346c422d61e00fd923/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -685,8 +685,6 @@ A.Y.D is supported by the John Simon Guggenheim Foundation, and the Alexander vo
 O.A. is supported by TUBITAK 2232 International Fellowship for Outstanding Researchers Program and Young Scientist Grant (BAGEP) awarded by Science Academy, Turkey. 
 
 ### Authors' contributions
-
-OA, AS, LL-B and ADY conceived of the project and designed the experiments. Mouse lemur tissue was acquired by ADY and PAL, cell lines were prepared by AB providing reagents for immortalization (hTERT construct). LL-B performed experimental assays, XR-seq and RNA-seq experiments. VOK, UA and ZK performed computational analyses. OA interpreted the data and wrote the first draft. All authors have read, revised and approved the final manuscript.
 
 OA, AS, LL-B and ADY conceived of the project and designed the experiments. Mouse lemur tissue was acquired by ADY and PAL, mouse lemur fibroblasts were established by AB and PAL. LL-B performed experimental assays, XR-seq and RNA-seq experiments. VOK, UA and ZK performed computational analyses. OA interpreted the data and wrote the first draft. All authors have read, revised and approved the final manuscript.
 

@@ -65,9 +65,8 @@ IgG
 Illumina
 Imager
 immonoslot
-immortalization
 immunoprecipitated
-Immunoslot
+immunoslot
 incubater
 intergenic
 Invitrogen
@@ -169,7 +168,7 @@ VOK
 von
 Welch
 XPB
-XR
+Xr
 XRS
 Yoder
 Zeynep
